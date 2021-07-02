@@ -1,0 +1,49 @@
+h1
+{
+    font-size: 50px;
+    color:#FF0000;
+    font-family:Blackadder ITC;
+    text-align: center;
+}
+
+body 
+{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/81/59/746/bridge-river-people-building-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* Add a hover effect for buttons */
+button:hover 
+{
+    opacity: 0.8;
+}
+
+/* Add padding to containers */
+.container 
+{
+    background-color:#AC5D03;
+    padding: 16px;
+    width: 700px;
+    position:absolute;
+    left: 23%;
+    height: 560px;
+    text-align: center;
+}
+
+button
+{
+    background-color:#E5A205;
+    color:#1900FF;
+    font-family:Blackadder ITC;
+    font-size:20px;
+}
+
+.BTC
+{
+    background-color:#A84900;
+    color:#E5D600;
+    font-family:Blackadder ITC;
+    font-size:20px;
+}
