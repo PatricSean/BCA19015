@@ -1,0 +1,37 @@
+/*Tutorial Page Style*/
+
+h1{text-align: center;}
+
+body 
+{
+    background-image: url(https://wallpaperaccess.com/full/1579442.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* Add a hover effect for all buttons */
+button:hover
+{
+    opacity:0.8;
+}
+
+/* Add padding to containers */
+.container 
+{
+    background-color:#AC5D03;
+    padding: 16px;
+    width: 700px;
+    position:absolute;
+    left: 23%;
+    height: 560px;
+}
+
+.WTGL
+{
+    background-color: #03FF1C;
+    color:#FF0000;
+    width:200px;
+    height:45px;
+    float:right;
+}
